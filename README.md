@@ -1,16 +1,16 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**kokjinsam/kokjinsam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### WORKING ON
 
-Here are some ideas to get you started:
+- 🚑 [Nomdoc](https://nomdoc.com), a community for healthcare professionals
+- 🏕️ [Campday](https://campday.app), a platform to discover and book campsites
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### GOAT ANIMES
+
+[Ling Long: Incarnation](https://myanimelist.net/anime/39675/Ling_Long__Incarnation)
+
+<img width="400px" src="https://user-images.githubusercontent.com/9153498/218244293-ae89d222-12f7-464b-a860-cf7526b7badc.jpeg">
+
+[Demon Slayer](https://en.wikipedia.org/wiki/Demon_Slayer:_Kimetsu_no_Yaiba)
+
+<img width="400px" src="https://user-images.githubusercontent.com/9153498/218244761-110ad7dd-db33-41cd-b9fa-103294f4da64.png">
