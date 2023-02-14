@@ -4,6 +4,7 @@
 
 - 🚑 [Nomdoc](https://nomdoc.com), a community for healthcare professionals
 - 🏕️ [Campday](https://campday.app), a platform to discover and book campsites
+- 🎉 [Kampung](https://kampung.app), an event platform
 
 #### GOAT ANIMES
 
