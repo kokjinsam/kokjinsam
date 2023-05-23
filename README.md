@@ -1,10 +1,6 @@
 # Hi there 👋
 
-#### WORKING ON
-
-- 🚑 [Nomdoc](https://nomdoc.com), a community for healthcare professionals
-- 🏕️ [Campday](https://campday.app), a platform to discover and book campsites
-- 🎉 [Kampung](https://kampung.app), an event platform
+Currently working on 🚑 [Nomdoc](https://nomdoc.com).
 
 #### GOAT ANIMES
 
