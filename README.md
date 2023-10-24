@@ -1,8 +1,4 @@
-# Hi there 👋
-
-Currently working on 🚑 [Nomdoc](https://nomdoc.com).
-
-#### GOAT ANIMES
+# GOAT ANIMES
 
 [Ling Long: Incarnation](https://myanimelist.net/anime/39675/Ling_Long__Incarnation)
 
